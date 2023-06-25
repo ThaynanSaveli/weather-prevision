@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+.body-style {
+  min-height: 100vh;
+  background: #292828;
+  font-family: 'Inter', sans-serif;
+}
+
+.mr-1 {
+  margin-right: 5px;
+}
+
+.ml-3 {
+  margin-left: 15px;
+}
